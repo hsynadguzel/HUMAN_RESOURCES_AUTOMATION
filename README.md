@@ -1,2 +1,5 @@
 # HUMAN_RESOURCES_AUTOMATION
  ORACLE PL/SQL - HUMAN RESOURCE
+
+## HUMAN RESORUCE DIAGRAM
+![IK](https://user-images.githubusercontent.com/98910348/209212690-a87823f4-35f0-472b-a6ec-7ede1c50bec5.jpg)
